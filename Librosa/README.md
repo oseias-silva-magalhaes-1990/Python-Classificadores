@@ -1,3 +1,5 @@
+# Módulo - Librosa
+
 ## Introdução
 Este trabalho consiste na utilização de espectros de imagens geradas com a biblioteca  Librosa na linguagem Python e um arquivo .csv com dados  de coeficientes cepstrais de frequência de mel (CCFM), centróide espectral, taxa de cruzamento zero, frequência de croma e roll-off espectral.
 
